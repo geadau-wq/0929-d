@@ -1,0 +1,6 @@
+{
+  "name": "高優計劃機器人：提問設計",
+  "description": "滔滔學（ELA）與優履團隊（UNI）開發的教學素材提問設計小幫手 GoodQuestioner，提供四個層次提問設計、學科專屬素養提問法與四大利害關係人觀點模擬。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
